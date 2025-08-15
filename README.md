@@ -37,3 +37,5 @@ Open `prototype/index.html` in your browser for a lightweight static preview. (N
 Ponaganti sravani — [ponagantisravani83@gmail.com] — +91-XXXXXXXXXX
 
 ---
+ LinkedIn profile:www.linkedin.com/in/ponaganti-sravani-
+ 
